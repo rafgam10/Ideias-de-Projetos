@@ -14,3 +14,5 @@
 - [ ] Criar uma enciclopédia sobre o filme do Toy Story 1, 2 e 3;
 - [ ] Criar uma enciclopédia sobre os filmes da Disney;
 - [ ] Criar uma enciclopédia sobre a NBA;
+- [ ] Criar um Sistema de Pesquisa de Filmes em Tkinter e Flask ou Django;
+
