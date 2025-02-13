@@ -15,4 +15,7 @@
 - [ ] Criar uma enciclopédia sobre os filmes da Disney;
 - [ ] Criar uma enciclopédia sobre a NBA;
 - [ ] Criar um Sistema de Pesquisa de Filmes em Tkinter e Flask ou Django;
+- [ ] Criar o site ou gerenciador da Caucau Show;
+- [ ] Criar um site de bebidas;
+- [ ] Criar um site ou sistema de pizzaria;
 
