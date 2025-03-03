@@ -18,4 +18,20 @@
 - [ ] Criar o site ou gerenciador da Caucau Show;
 - [ ] Criar um site de bebidas;
 - [ ] Criar um site ou sistema de pizzaria;
-
+- [ ] Criar um Gerador de senhas;
+- [ ] Criar um Relógio Digital com Tempo Real;
+- [ ] Criar um Jogo para descobrir um número de 0 até 100;
+- [ ] Criar um Jogo de Pedra, Papel e Tesoura;
+- [ ] Criar um Contador;
+- [ ] Criar um Carrossel de Revisões;
+- [ ] Criar um Lista de Compras em CRUD;
+- [ ] Criar um Jogo de Genius;
+- [ ] Criar um Previsão do Tempo;
+- [ ] Criar um Quadro Kanban;
+- [ ] Criar um Jogo de Dados; 
+- [ ] Criar uma API de Bebidas do Mundo;
+- [ ] Criar um Sistema de Cadastro de Usuários;
+- [ ] Criar um Sistema de Cadastro de Carros;
+- [ ] Criar um Sistema de Finanças Pessoais;
+- [ ] Criar um Sistema de Acâdemia;
+- [ ] Criar uma Aplicação de Clima com API;
