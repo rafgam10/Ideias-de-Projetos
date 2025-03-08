@@ -34,4 +34,11 @@
 - [ ] Criar um Sistema de Cadastro de Carros;
 - [ ] Criar um Sistema de Finanças Pessoais;
 - [ ] Criar um Sistema de Acâdemia;
+- [ ] Criar um Sistema de Controle de Finanças;
 - [ ] Criar uma Aplicação de Clima com API;
+- [ ] Criar Próprio Servidor de Hospedagem;
+- [ ] Criar uma API de figurinhas para o Whatsapp;
+- [ ] Criar um Monitoramento de Sistema do Pc;
+- [ ] Criar um Gerenciamento de Mesas e pedidos para restaurantes;
+
+ 
