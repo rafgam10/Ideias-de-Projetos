@@ -40,5 +40,9 @@
 - [ ] Criar uma API de figurinhas para o Whatsapp;
 - [ ] Criar um Monitoramento de Sistema do Pc;
 - [ ] Criar um Gerenciamento de Mesas e pedidos para restaurantes;
-
+- [ ] Criar um Gerador de Conversas Falsas no WhatsApp;
+- [ ] Criar um Teste de Personalidade Estilo BuzzFeed;
+- [ ] Criar um Site de Música "Lo-Fi" Para Foco e Estudo;
+- [ ] Criar um Simulador de Poupança com Juros Compostos;
+- [ ] Criar um Mapa de Lugares Que Você Já Visitou; 
  
