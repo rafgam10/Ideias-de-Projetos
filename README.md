@@ -44,5 +44,6 @@
 - [ ] Criar um Teste de Personalidade Estilo BuzzFeed;
 - [ ] Criar um Site de Música "Lo-Fi" Para Foco e Estudo;
 - [ ] Criar um Simulador de Poupança com Juros Compostos;
-- [ ] Criar um Mapa de Lugares Que Você Já Visitou; 
+- [ ] Criar um Mapa de Lugares Que Você Já Visitou;
+- [ ] Criar um Bitzee ou Tamagotchi(Pet Virtual); 
  
