@@ -46,4 +46,5 @@
 - [ ] Criar um Simulador de Poupança com Juros Compostos;
 - [ ] Criar um Mapa de Lugares Que Você Já Visitou;
 - [ ] Criar um Bitzee ou Tamagotchi(Pet Virtual); 
- 
+- [ ] Criar um Simulador de Jejum;
+- [ ] Criar um Plugin por Obsidian; 
