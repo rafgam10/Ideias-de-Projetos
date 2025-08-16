@@ -47,4 +47,5 @@
 - [ ] Criar um Mapa de Lugares Que Você Já Visitou;
 - [ ] Criar um Bitzee ou Tamagotchi(Pet Virtual); 
 - [ ] Criar um Simulador de Jejum;
-- [ ] Criar um Plugin por Obsidian; 
+- [ ] Criar um Plugin por Obsidian;
+- [ ] Criar um Sistema e API de Estacionamento;
